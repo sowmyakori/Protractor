@@ -1,0 +1,17 @@
+{
+  "name": "bankingappcustomer",
+  "version": "1.0.0",
+  "description": "protaractor banking apllication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sowmya",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.4.0",
+    "protractor": "^5.4.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "winston": "^3.2.1"
+  }
+}

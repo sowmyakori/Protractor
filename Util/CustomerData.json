@@ -1,0 +1,36 @@
+{
+    "url":"http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+    "customer":{
+        "cname": "Harry Potter",
+        "welcomeTxt":"Welcome"
+    },
+    "account":{
+        "acc1":"1004",
+        "acc2":"1005",
+        "acc3":"1006",
+        "currency1":"Dollar",
+        "currency2":"Pound",
+        "currency3":"Rupee",
+        "depositAmount":"2000",
+        "wrongAmt":"2001",
+        "correctAmt":"1000",
+        "tnxError":"Transaction Failed",
+        "tnxSuccess":"Transaction successful"
+    },
+    "transaction":{
+        "tnxC":"Credit",
+        "tnxD":"Debit"
+    },
+    "addCust":{
+        "fName":"mark",
+        "lName":"json",
+        "postalCode":"1234",
+        "alertMessage":"Customer added successfully"
+    },
+    "openAcc":{
+        "currency1":"Dollar",
+        "currency2":"Pound",
+        "currency3":"Rupee",
+        "alertMsg":"Account created successfully"
+    }
+}

@@ -1,0 +1,156 @@
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login button is present","level":"info","service":"user-service"}
+{"message":"Manage login button is present","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Add Customer button is present","level":"info","service":"user-service"}
+{"message":"Open Account button is present","level":"info","service":"user-service"}
+{"message":" Customers button is present","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Add Customer button is present","level":"info","service":"user-service"}
+{"message":"Add customer button clicked","level":"info","service":"user-service"}
+{"message":"Expected text------->Customer added successfully","level":"info","service":"user-service"}
+{"message":"actual message------>Customer added successfully with customer id :6","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Open Account button is present","level":"info","service":"user-service"}
+{"message":"Selecting customer from customer dropdown","level":"info","service":"user-service"}
+{"message":"Customer selected ---->mark json","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Open Account button is present","level":"info","service":"user-service"}
+{"message":"Selecting customer from customer dropdown","level":"info","service":"user-service"}
+{"message":"Customer selected ---->mark json","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Open Account button is present","level":"info","service":"user-service"}
+{"message":"Selecting customer from customer dropdown","level":"info","service":"user-service"}
+{"message":"Customer selected ---->mark json","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Open Account button is present","level":"info","service":"user-service"}
+{"message":"Searching for Customer....","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1004","level":"info","service":"user-service"}
+{"message":"expected Currency-------------->Dollar","level":"info","service":"user-service"}
+{"message":"Actual Currency Displayed------------>Dollar","level":"info","service":"user-service"}
+{"message":"Account selected------------>1005","level":"info","service":"user-service"}
+{"message":"expected Currency-------------->Pound","level":"info","service":"user-service"}
+{"message":"Actual Currency Displayed------------>Pound","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"expected Currency-------------->Rupee","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"Actual Currency Displayed------------>Rupee","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Size of rows in transaction table----->0","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"Depositted successfully","level":"info","service":"user-service"}
+{"message":"Balance verified after Transaction--------->[object Object]","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"Expected balance____________________2000actual balance______________________2000","level":"info","service":"user-service"}
+{"message":"Amount verified from transaction history Table","level":"info","service":"user-service"}
+{"message":"Transaction Type verified from history Table","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"Withdrawl button clicked","level":"info","service":"user-service"}
+{"message":"Amount withdraw success..","level":"info","service":"user-service"}
+{"message":"Message displayed after withdraw--->Transaction Failed. You can not withdraw amount more than the balance.","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"Withdrawl button clicked","level":"info","service":"user-service"}
+{"message":"Amount withdraw success..","level":"info","service":"user-service"}
+{"message":"Message displayed after withdraw--->Transaction successful","level":"info","service":"user-service"}
+{"message":"Balance verified after Transaction--------->[object Object]","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"Expected balance____________________1000actual balance______________________1000","level":"info","service":"user-service"}
+{"message":"Amount verified from transaction history Table","level":"info","service":"user-service"}
+{"message":"Transaction Type verified from history Table","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"CLicked Reset button","level":"info","service":"user-service"}
+{"message":"Size of rows in transaction table----->0","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Account selected------------>1006","level":"info","service":"user-service"}
+{"message":"Clicked Back button","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
+{"message":"****************************************Testcase executione begins***************************************","level":"info","service":"user-service"}
+{"message":"Login successfull","level":"info","service":"user-service"}
+{"message":"Customer login..","level":"info","service":"user-service"}
+{"message":"Selected customer from Customer list---->Harry Potter","level":"info","service":"user-service"}
+{"message":"Customer login success...","level":"info","service":"user-service"}
+{"message":"Customer login successful","level":"info","service":"user-service"}
+{"message":"Customer logout from application","level":"info","service":"user-service"}
+{"message":"Customer logged out and verified for customers dropdown","level":"info","service":"user-service"}
+{"message":"*******************************************Testcase executione ends***************************************","level":"info","service":"user-service"}
