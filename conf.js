@@ -30,7 +30,7 @@ exports.config = {
   
     // Spec patterns are relative to the current working directory when
     // protractor is called.
-   specs: ['./Specs/BankAppE2E_spec.js'],
+   specs: ['./Specs/BankAppE2E_spec.js','./Specs/Customer_spec.js'],
 
    //SELENIUM_PROMISE_MANAGER: false,
   
